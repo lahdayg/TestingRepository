@@ -25,6 +25,7 @@ namespace LearnWithStyleDemo.StepDefinition
         public void GivenINavigateTo(string url)
         {
             dataDrivenWithParameterPage.NavigateToWebsite(url);
+
         }
 
         

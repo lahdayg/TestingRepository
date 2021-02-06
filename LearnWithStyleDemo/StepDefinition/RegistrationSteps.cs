@@ -30,6 +30,7 @@ namespace LearnWithStyleDemo.StepDefinition
         public void GivenINavigateToWebsite()
         {
             registrationPage.NavigateToWebsite();
+
         }
 
 

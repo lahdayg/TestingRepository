@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Grandma\\source\\repos\\LearnWithStyleDemo\\LearnWithStyleDemo\\LearnWithStyleDemo.csproj": {}
+    "C:\\Users\\Grandma\\source\\repos\\Training\\TestingRepository\\LearnWithStyleDemo\\LearnWithStyleDemo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Grandma\\source\\repos\\LearnWithStyleDemo\\LearnWithStyleDemo\\LearnWithStyleDemo.csproj": {
+    "C:\\Users\\Grandma\\source\\repos\\Training\\TestingRepository\\LearnWithStyleDemo\\LearnWithStyleDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Grandma\\source\\repos\\LearnWithStyleDemo\\LearnWithStyleDemo\\LearnWithStyleDemo.csproj",
+        "projectUniqueName": "C:\\Users\\Grandma\\source\\repos\\Training\\TestingRepository\\LearnWithStyleDemo\\LearnWithStyleDemo.csproj",
         "projectName": "LearnWithStyleDemo",
-        "projectPath": "C:\\Users\\Grandma\\source\\repos\\LearnWithStyleDemo\\LearnWithStyleDemo\\LearnWithStyleDemo.csproj",
+        "projectPath": "C:\\Users\\Grandma\\source\\repos\\Training\\TestingRepository\\LearnWithStyleDemo\\LearnWithStyleDemo.csproj",
         "packagesPath": "C:\\Users\\Grandma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Grandma\\source\\repos\\LearnWithStyleDemo\\LearnWithStyleDemo\\obj\\",
+        "outputPath": "C:\\Users\\Grandma\\source\\repos\\Training\\TestingRepository\\LearnWithStyleDemo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
